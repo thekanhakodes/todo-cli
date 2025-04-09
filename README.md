@@ -17,9 +17,10 @@ Manage your tasks in style with a colorful, interactive interface!
 
 ## 🔧 Installation
 
-1. **Clone the repo**
 ```bash
 git clone https://github.com/thekanhakodes/todo-cli.git
 cd todo-cli
 pip install -r requirements.txt
+
+**## 🚀 Usage**
 python main.py
