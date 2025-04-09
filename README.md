@@ -30,32 +30,17 @@ Made with 💙 by @thekanhakodes
 Run the app:
     python main.py
 
-Menu Preview:
-    📌 TO-DO CLI APP | by @thekanhakodes
-    ----------------------------------------
-    1️⃣  Add Task
-    2️⃣  List Tasks
-    3️⃣  Mark Task as Done
-    4️⃣  Delete Task
-    5️⃣  Exit
-    ----------------------------------------
-
----------------------------
-📁 Project Structure
----------------------------
-todo-cli/
-├── main.py             # Core CLI logic
-├── tasks.json          # Auto-generated task storage
-├── requirements.txt    # Required dependencies
-├── LICENSE             # MIT License
-├── demo.gif            # Demo animation
-└── README.md           # You are here ❤️
-
----------------------------
+📌 TO-DO CLI APP | by @thekanhakodes
+----------------------------------------
+1️⃣  Add Task
+2️⃣  List Tasks
+3️⃣  Mark Task as Done
+4️⃣  Delete Task
+5️⃣  Exit
+----------------------------------------
 📦 requirements.txt
 ---------------------------
 colorama
-
 ---------------------------
 📜 LICENSE (MIT)
 ---------------------------
