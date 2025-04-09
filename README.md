@@ -27,8 +27,7 @@ Made with 💙 by @thekanhakodes
 ---------------------------
 🚀 Usage
 ---------------------------
-Run the app:
-    python main.py
+python main.py
 
 ----------------------------------------
 📦 requirements.txt
