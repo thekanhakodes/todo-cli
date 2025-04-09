@@ -29,12 +29,6 @@ pip install -r requirements.txt
 ---------------------------
 python main.py
 
-----------------------------------------
-📦 requirements.txt
----------------------------
-colorama
-
----------------------------
 📜 LICENSE (MIT)
 ---------------------------
 This project is licensed under the MIT License — feel free to use, modify, or fork with credit.
