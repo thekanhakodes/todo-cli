@@ -18,11 +18,11 @@ Made with 💙 by @thekanhakodes
 ⚙️ Installation
 ---------------------------
 1. Clone the repository:
-    git clone https://github.com/thekanhakodes/todo-cli.git
-    cd todo-cli
+git clone https://github.com/thekanhakodes/todo-cli.git
+cd todo-cli
 
 2. Install the required package:
-    pip install -r requirements.txt
+pip install -r requirements.txt
 
 ---------------------------
 🚀 Usage
