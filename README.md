@@ -18,10 +18,12 @@ Made with 💙 by @thekanhakodes
 ⚙️ Installation
 ---------------------------
 1. Clone the repository:
+```bash
 git clone https://github.com/thekanhakodes/todo-cli.git
 cd todo-cli
+```bash
 
-2. Install the required package:
+3. Install the required package:
 pip install -r requirements.txt
 
 ---------------------------
