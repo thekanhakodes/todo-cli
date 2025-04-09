@@ -29,14 +29,6 @@ Made with 💙 by @thekanhakodes
 ---------------------------
 Run the app:
     python main.py
-
-📌 TO-DO CLI APP | by @thekanhakodes
-----------------------------------------
-1️⃣  Add Task
-2️⃣  List Tasks
-3️⃣  Mark Task as Done
-4️⃣  Delete Task
-5️⃣  Exit
 ----------------------------------------
 📦 requirements.txt
 ---------------------------
