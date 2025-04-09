@@ -21,7 +21,7 @@ Made with 💙 by @thekanhakodes
 ```bash
 git clone https://github.com/thekanhakodes/todo-cli.git
 cd todo-cli
-```bash
+bash```
 
 3. Install the required package:
 pip install -r requirements.txt
