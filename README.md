@@ -29,14 +29,17 @@ Made with 💙 by @thekanhakodes
 ---------------------------
 Run the app:
     python main.py
+
 ----------------------------------------
 📦 requirements.txt
 ---------------------------
 colorama
+
 ---------------------------
 📜 LICENSE (MIT)
 ---------------------------
 This project is licensed under the MIT License — feel free to use, modify, or fork with credit.
+
 ---------------------------
 💙 Author
 ---------------------------
