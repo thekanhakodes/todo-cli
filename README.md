@@ -18,18 +18,22 @@ A fancy and fun command-line to-do list application built in Python by [@thekanh
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/thekanhakodes/todo-cli-app.git
-cd todo-cli-app
-pip install colorama
+git clone https://github.com/thekanhakodes/todo-cli.git
+cd todo-cli
+python -m pip install -r requirements.txt
 ```
 
 ---
 
 ## ▶️ Usage
 
+From the `todo-cli` repository root, run:
+
 ```bash
 python main.py
 ```
+
+The app reads and saves tasks in `tasks.json` in the current working directory.
 
 Then follow the interactive menu:
 
@@ -49,10 +53,12 @@ Then follow the interactive menu:
 ## 🗂️ File Structure
 
 ```
-todo-cli-app/
-├── main.py        # Main application script
-├── tasks.json     # Task data file (auto-generated)
-└── README.md      # This documentation
+todo-cli/
+├── LICENSE
+├── README.md
+├── main.py           # Main application script
+├── requirements.txt  # Python dependencies
+└── tasks.json        # Local task data
 ```
 
 ---
